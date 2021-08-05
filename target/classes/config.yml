@@ -1,0 +1,5 @@
+fly-message-on-self: '&6FLY&7 You have&a enabled&7 your flight mode!'
+fly-message-off-self: '&6FLY&7 You have&c disabled&7 your flight mode!'
+fly-message-on-other: '&6FLY&7 You have&a enabled&7 flight mode for {P}!'
+fly-message-off-other: '&6FLY&7 You have&c disabled&7 flight mode for {P}!'
+config-version: '1.0' #DO NOT CHANGE

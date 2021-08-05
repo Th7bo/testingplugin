@@ -1,0 +1,9 @@
+me\thiboisweird\testingplugin\events\PlayerMove.class
+me\thiboisweird\testingplugin\commands\God.class
+me\thiboisweird\testingplugin\commands\Feed.class
+me\thiboisweird\testingplugin\listeners\JoinLeaveEvent.class
+me\thiboisweird\testingplugin\commands\Fly.class
+me\thiboisweird\testingplugin\commands\Warps.class
+me\thiboisweird\testingplugin\commands\Vault.class
+me\thiboisweird\testingplugin\TestingPlugin.class
+me\thiboisweird\testingplugin\commands\test.class

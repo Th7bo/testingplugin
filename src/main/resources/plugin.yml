@@ -1,0 +1,22 @@
+name: TestingPlugin
+version: ${project.version}
+main: me.thiboisweird.testingplugin.TestingPlugin
+api-version: 1.16
+authors: [ ThiboIsWeird ]
+description: This is a testing plugin to learn java.
+website: https://thibo.cf
+commands:
+  god:
+    usage: /god
+    description: be a god
+  feed:
+    description: feeds a player
+  test:
+    description: config test
+  vault:
+    description: testing vaults
+    usage: /vault
+  fly:
+    description: flying
+  warp:
+    description: testging
